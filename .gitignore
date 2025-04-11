@@ -1,0 +1,12 @@
+# Ignore temporary Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+# Optional: ignore secrets or local DBs
+*.db
+*.sqlite
+.env
